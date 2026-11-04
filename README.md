@@ -4,7 +4,9 @@
 
 Yoru is a calm, low-contrast dark theme for [Zed](https://zed.dev). Its surfaces use the warm ink blacks of Kanagawa Dragon. Its syntax colors are soft and inspired by Monokai.
 
-<!-- TODO: add a screenshot, e.g. ![Yoru Dark](assets/screenshot.png) -->
+![Yoru Dark: editor, agent panel, project panel, and terminal](assets/screenshot.png)
+
+*Shown with [`demo/lantern.ts`](demo/lantern.ts) and Hack Nerd Font.*
 
 ## Variants
 
